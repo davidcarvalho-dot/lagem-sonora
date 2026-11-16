@@ -232,13 +232,13 @@
 }
 
 @media (max-width: 800px) {
-    .inscricao,
-    .linha,
+    .cartazes,
+    .passos,
     .rodape-colunas {
       flex-direction: column;
     }
   
-    .titulo-pagina {
-      font-size: 96px;
+    .cartaz-principal h1 {
+      font-size: 84px;
     }
   }
